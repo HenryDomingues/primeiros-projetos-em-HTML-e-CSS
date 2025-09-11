@@ -1,0 +1,89 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Corpo */
+  body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #fdfbf7;
+    color: #2b2b2b;
+    line-height: 1.6;
+    padding: 20px;
+  }
+  
+  /* Cabeçalho */
+  header {
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(to right, #8B0000, #b22222);
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 30px;
+  }
+  
+  header h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-shadow: 2px 2px #000;
+  }
+  
+  /* Estrutura da notícia */
+  .noticia {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    background: #fff;
+    border: 2px solid #b22222;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .noticia:hover {
+    transform: scale(1.02);
+  }
+  
+  /* Imagens */
+  .noticia img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+    border: 3px solid #8B0000;
+  }
+  
+  /* Texto */
+  .conteudo {
+    flex: 1;
+    min-width: 250px;
+  }
+  
+  .conteudo p + p {
+    margin-top: 10px;
+  }
+  
+  /* Botão */
+  .btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background: #622824; /* marrom estilo couro */
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    border: 2px solid #b22222;
+    transition: all 0.3s ease;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.3);
+  }
+  
+  .btn:hover {
+    background: #b22222; /* vermelho rodeio */
+    border-color: #622824;
+    transform: scale(1.05);
+  }
+  

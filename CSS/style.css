@@ -1,0 +1,25 @@
+/* Comentário CSS */
+/*
+*{
+    color: brown;
+}
+*/
+body{
+    background: linear-gradient(to right, #D3D5D4, #A2C5AC, #9DB5B2, #878E99, #7F6A93);
+ 
+ }
+ /* Seletor Tag HTML */
+ p {
+     color: blue;
+ }
+ h1{
+     color: red;
+ }
+ ul{
+     color: green;
+ }
+ 
+ /* Seletor Class */
+ .paragrafo-bolha{
+     color: black;
+ }

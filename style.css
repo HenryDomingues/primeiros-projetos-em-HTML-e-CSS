@@ -1,0 +1,28 @@
+/* Comentário CSS */
+/*
+*{
+    color: brown;
+}
+*/
+body{
+    background: linear-gradient(to right, #90C2E7,#840016, #48582b);
+    font-style: ubuntu;
+    img {
+        border: 5px solid rgb(220, 223, 21);
+        }
+ }
+ /* Seletor Tag HTML */
+ p {
+     color: blue;
+ }
+ h1{
+     color: rgb(244, 248, 8);
+ }
+ ul{
+     color: rgb(28, 29, 28);
+ }
+ 
+ /* Seletor Class */
+ .paragrafo-bolha{
+     color: black;
+ }
