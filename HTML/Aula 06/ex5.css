@@ -1,0 +1,30 @@
+.box{
+    align-content: center;
+    background-color: hotpink;
+    text-align: center;
+    height: 250px;
+    width: 200px;
+    padding: 15px;
+    display: inline-block;
+    margin: 10px;
+}
+.box2{
+    align-content: center;
+    background-color:lime;
+    text-align: center;
+    height: 250px;
+    width: 200px;
+    padding: 15px;
+    display: inline-block;
+    margin: 10px;
+}
+.box3{
+    align-content: center;
+    background-color: burlywood;
+    text-align: center;
+    height: 250px;
+    width: 200px;
+    padding: 15px;
+    display: inline-block;
+    margin: 10px;
+}

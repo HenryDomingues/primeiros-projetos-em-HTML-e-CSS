@@ -1,0 +1,145 @@
+.div1{
+    margin-left: 450px;
+}
+.div2{
+    margin-left: 450px;
+}
+.div3{
+    margin-left: 450px;
+}
+.box{
+    display: inline-block;
+    align-content: center;
+    background-color: hotpink;
+    text-align: center;
+    height: 40px;
+    width: 120px;
+    padding: 15px;
+    display: inline-block;
+    margin: 5px;
+    border: 5px solid black;
+    
+}
+.box:hover{
+    color: white;
+}
+.box2{
+    display: inline-block;
+    align-content: center;
+    background-color:lime;
+    text-align: center;
+    height: 40px;
+    width: 120px;
+    padding: 15px;
+    display: inline-block;
+    margin: 5px;
+    border-style: dashed;
+}
+.box2:hover{
+    color: white;
+}
+.box3{
+    display: inline-block;
+    align-content: center;
+    background-color: burlywood;
+    text-align: center;
+    height: 40px;
+    width: 120px;
+    padding: 15px;
+    display: inline-block;
+    margin: 5px;
+    border: 5px solid black;
+}
+.box3:hover{
+    color: white;
+}
+.box4{
+    display: inline-block;
+    align-content: center;
+    background-color:powderblue;
+    text-align: center;
+    height: 40px;
+    width: 120px;
+    padding: 15px;
+    display: inline-block;
+    margin: 5px;
+    border-style: dashed;
+}
+.box4:hover{
+    color: white;
+}
+.box5{
+    display: inline-block;
+    align-content: center;
+    background-color: darkred;
+    text-align: center;
+    height: 40px;
+    width: 120px;
+    padding: 15px;
+    display: inline-block;
+    margin: 5px;
+    border: 5px solid black;
+}
+.box5:hover{
+    color: white;
+}
+.box6{
+    display: inline-block;
+    align-content: center;
+    background-color:cornflowerblue;
+    text-align: center;
+    height: 40px;
+    width: 120px;
+    padding: 15px;
+    display: inline-block;
+    margin: 5px;
+    border-style: dashed;
+}
+.box6:hover{
+    color: white;
+}
+.box7{
+    display: inline-block;
+    align-content: center;
+    background-color: blueviolet;
+    text-align: center;
+    height: 40px;
+    width: 120px;
+    padding: 15px;
+    display: inline-block;
+    margin: 5px;
+    border: 5px solid black;
+}
+.box7:hover{
+    color: white;
+}
+.box8{
+    display: inline-block;
+    align-content: center;
+    background-color:gray;
+    text-align: center;
+    height: 40px;
+    width: 120px;
+    padding: 15px;
+    display: inline-block;
+    margin: 5px;
+    border-style: dashed;
+}
+.box8:hover{
+    color: white;
+}
+.box9{
+    display: inline-block;
+    align-content: center;
+    background-color:khaki;
+    text-align: center;
+    height: 40px;
+    width: 120px;
+    padding: 15px;
+    display: inline-block;
+    margin: 5px;
+    border: 5px solid black;
+}
+.box9:hover{
+    color: white;
+}

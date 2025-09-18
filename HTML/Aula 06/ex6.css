@@ -1,0 +1,14 @@
+.div-centralizada{
+    display: inline-block;
+    background-color: yellow;
+    height: 150px;
+    width: 100%;
+}
+.box{
+    align-content: center;
+    text-align: center;
+    background-color:goldenrod;
+    height: 80px;
+    width: 400px;
+    padding: 20px;
+}
