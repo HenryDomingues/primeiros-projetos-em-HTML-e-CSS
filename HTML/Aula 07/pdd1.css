@@ -1,0 +1,31 @@
+.menu-fix {
+    position: fixed;
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    top: 0;
+    left: 0;
+    text-align: center;
+    line-height: 60px; /* centraliza verticalmente o texto */
+    z-index: 2;
+}
+
+.menu-lat {
+    position: fixed; /* fixa o menu lateral */
+    top: 60px;       /* começa logo abaixo do menu fixo */
+    left: 0;
+    height: 100%;    /* ocupa toda a altura da tela */
+    width: 250px;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding-top: 20px; /* espaço interno pro conteúdo */
+    z-index: 1;
+}
+
+.txt {
+    margin-left: 260px; /* deixa espaço pro menu lateral */
+    margin-top: 80px;   /* deixa espaço pro menu superior */
+    font-size: xx-large;
+}

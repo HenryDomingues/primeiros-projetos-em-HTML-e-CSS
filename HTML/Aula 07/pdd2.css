@@ -1,0 +1,68 @@
+.letrah{
+    margin-top: 10px;
+    position:sticky;
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    color: white;
+    top: 0px;
+    left: 0px;
+    text-align: center;
+    align-content: center; 
+    z-index: 1;
+}
+.letrae{
+    margin-top: 10px;
+    position:sticky;
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    color: white;
+    top: 0px;
+    left: 50px;
+    text-align: center;
+    align-content: center; 
+    z-index: 1;
+}
+.letran{
+    margin-top: 10px;
+    position:sticky;
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    color: white;
+    top: 0px;
+    left: 100px;
+    text-align: center;
+    align-content: center; 
+    z-index: 1;
+}
+.letrar{
+    margin-top: 10px;
+    position:sticky;
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    color: white;
+    top: 0px;
+    left: 150px;
+    text-align: center;
+    align-content: center; 
+    z-index: 1;
+}
+.letray{
+    margin-top: 10px;
+    position:sticky;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color: white;
+    top: 0px;
+    left: 200px;
+    text-align: center;
+    align-content: center; 
+    z-index: 1;
+}
+p{
+    font-size: xx-large;
+}
